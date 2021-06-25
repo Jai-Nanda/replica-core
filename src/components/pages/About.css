@@ -1,0 +1,18 @@
+.group_img {
+  margin-top: 75px;
+  margin-left: 300px;
+  width: 800px;
+}
+.about h2 {
+  margin-top: 40px;
+  margin-left: 110px;
+  font-size: 55px;
+  color: var(--primary-color);
+}
+.about p {
+  margin-left: 110px;
+  margin-right: 200px;
+  line-height: 34px;
+  margin-top: 25px;
+  font-size: 24px;
+}

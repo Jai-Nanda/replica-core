@@ -1,0 +1,26 @@
+.development {
+  width: 400px;
+  box-sizing: border-box;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%),
+    0 10px 10px -5px rgb(0 0 0 / 4%);
+  padding: 20px;
+  height: 430px;
+  margin-top: 50px;
+  border-radius: 34px;
+  margin-left: 200px;
+}
+.development h2 {
+  font-size: 25px;
+}
+.development p {
+  padding-top: 30px;
+  line-height: 34px;
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+.development a {
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 23px;
+  text-decoration: none;
+}

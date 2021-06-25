@@ -1,0 +1,48 @@
+.contact h1{
+  font-size: 50px;
+  margin-bottom: 40px;
+  margin-top: 60px;
+  margin-left: 210px;
+  color: var(--primary-color);
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
+.content {
+  margin-top: 20px;
+  font-family: "Montserrat", sans-serif;
+  width: 430px;
+}
+.content h4 {
+  font-size: 24px;
+  margin-left: 40px;
+  font-weight: 400;
+  padding-bottom: 20px;
+}
+.content h3 {
+  font-weight: 900;
+  margin-left: 40px;
+  font-size: 27px;
+  padding-bottom: 20px;
+}
+.content h2 {
+  padding-bottom: 20px;
+  margin-left: 40px;
+  font-size: 22px;
+  font-weight: 400;
+}
+.content b {
+  color: var(--primary-color);
+}
+.content p {
+  font-size: 24px;
+  margin-left: 40px;
+}
+.map > iframe {
+  box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.1);
+  border-radius: 50px;
+  border: none;
+  width: 450px;
+  height: 450px;
+}

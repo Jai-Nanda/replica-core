@@ -1,0 +1,34 @@
+.dev {
+  box-sizing: border-box;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%),
+    0 10px 10px -5px rgb(0 0 0 / 4%);
+  margin-left: 200px;
+  width: 340px;
+  padding: 40px;
+  border-radius: 20px;
+  margin-top: 60px;
+  height: 500px;
+}
+.dev h2 {
+  font-weight: 500;
+  font-size: 25px;
+}
+.dates {
+  color: var(--primary-color);
+  font-size: 16px;
+  padding-top: 17px;
+}
+.dev h3 {
+  font-size: 19px;
+  padding-top: 25px;
+  font-weight: 600;
+}
+.dev p {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.dev a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 600;
+}

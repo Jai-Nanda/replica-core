@@ -1,0 +1,17 @@
+.member {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 51.5vh;
+}
+.mem1 {
+  box-sizing: border-box;
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%),
+    0 10px 10px -5px rgb(0 0 0 / 4%);
+  padding: 50px;
+  border-radius: 30px;
+}
+.mem1 h3 {
+  color: var(--primary-color);
+  font-size: 30px;
+}
