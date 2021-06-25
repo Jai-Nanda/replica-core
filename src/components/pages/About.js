@@ -3,9 +3,7 @@ import './About.css';
 const About = () => {
     return (
         <div className="all">
-            <div className="image">
-                <img src="./img/about.svg" alt="Group Photo" className="group_img"/>
-            </div>
+                <img src="./img/about.svg"alt="undraw group"/>
             <div className="about">
                 <h2>About</h2>
                 <p className="para1">Instituted in 2008 by the students of Delhi Public School Dwarka, COЯE was established with the aim of promoting competence and excellence in the field of computer and information technology at school, as well as various inter-school symposia. COЯE hosted its first Inter School Symposium in 2008. Since then, we have not looked back.</p>
